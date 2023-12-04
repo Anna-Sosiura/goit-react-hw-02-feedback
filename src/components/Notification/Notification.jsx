@@ -1,4 +1,4 @@
-const Message = ({ message }) => {
-  return <p>{message}</p>;
+const Notification = ({ message }) => {
+  return <h3>{message}</h3>;
 };
-export default Message;
+export default Notification;

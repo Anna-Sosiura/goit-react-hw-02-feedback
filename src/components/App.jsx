@@ -1,24 +1,13 @@
 import { Component } from 'react';
 // import { Feedback } from './Feedback/Feedback';
+// import { Statistics } from './Statistics/Statistics';
+// import { Section } from './Section/Section';
+// import { Notification } from './Notification/Notification';
+// import { Feedback } from './Feedback/Feedback';
 import Feedback from './Feedback/Feedback';
 import Statistics from './Statistics/Statistics';
 import Section from './Section/Section';
 import Notification from './Notification/Notification';
-
-// export const App = () => {
-//   return (
-//     <div
-//       style={{
-//         margin: 50,
-//         fontSize: 40,
-//         color: '#010101',
-//       }}
-//     >
-//       <Feedback />
-//       {/* Please leave feedback */}
-//     </div>
-//   );
-// };
 
 export class App extends Component {
   state = {
