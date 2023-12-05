@@ -1,9 +1,4 @@
 import { Component } from 'react';
-// import { Feedback } from './Feedback/Feedback';
-// import { Statistics } from './Statistics/Statistics';
-// import { Section } from './Section/Section';
-// import { Notification } from './Notification/Notification';
-// import { Feedback } from './Feedback/Feedback';
 import Feedback from './Feedback/Feedback';
 import Statistics from './Statistics/Statistics';
 import Section from './Section/Section';
